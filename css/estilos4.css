@@ -1,0 +1,92 @@
+/*  Fluid Layout Fuente vw Alto vh ancho %  */
+
+.yuji-mai-regular {
+    font-family: "Yuji Mai", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.lacquer-regular {
+    font-family: "Lacquer", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: cadetblue;
+}
+
+*,
+*::before ::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    color: green;
+}
+
+header h2 {
+    color: cadetblue;
+}
+
+/*  ----------------------------- Zona Main --------------------------------- */
+
+nav {
+    font-size: 1.3vw;
+}
+
+#primer_imagen {
+    width: 70%;
+    height: 40vh;
+    
+}
+
+#segunda_imagen {
+    width: 60%;
+    height: 40vh;
+}
+
+#tercera_imagen {
+    width: 50%;
+    height: 40vh;
+}
+
+#quinta_imagen {
+    width: 40%;
+    height: 40vh;
+}
+
+#primer_contenedor {
+    width: 100%;
+    margin-bottom: 40px;
+    display: grid;
+    grid-template-columns: auto auto auto; /* Hago que tengan 3 columnas */
+}
+
+#segundo_contenedor {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+picture {
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+footer div {
+    margin-top: 25px;
+    font-size: 2vw;
+}
+
