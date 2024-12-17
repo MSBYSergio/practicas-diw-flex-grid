@@ -19,8 +19,8 @@ Para llevar a cabo el desarrollo de la práctica se han usado selectores CSS
 
 > Algunas líneas importantes de maquetación ...
 
-* El primer `<section>` y el `<footer>` son maquetados con `display:flex` y `justify-content:space-between`
-* El segundo `<section>` también es maquetado con `display:flex` pero esta vez con `justify-content:space-around`
+* El primer `<section>` y el `<footer>` son **maquetados** con `display:flex` y `justify-content:space-between`
+* El segundo `<section>` también es **maquetado** con `display:flex` pero esta vez con `justify-content:space-around`
 
 ## Despliegue
 

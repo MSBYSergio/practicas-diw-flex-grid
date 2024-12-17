@@ -1,2 +1,7 @@
 # Practicas de flex y Grid
-Prácticas realizadas en DIW (Desarrollo de Interfaces Web) sobre contenedores flex y grid
+Prácticas realizadas en DIW (Desarrollo de Interfaces Web) sobre contenedores Flex y Grid
+
+![Práctica de Flex](/flex/image.png)
+![Práctica de Grid](/grid/image.png)
+
+Ambas realalizadas por **Sergio Bau Nieto**

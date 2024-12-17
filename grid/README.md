@@ -1,4 +1,4 @@
-# Práctica de CSS realizada con contenedores Flex
+# Práctica de CSS realizada con contenedores Grid
 
 ## El propósito es maquetar lo siguiente
 
@@ -19,8 +19,8 @@ Para llevar a cabo el desarrollo de la práctica se han usado selectores CSS
 
 > Algunas líneas importantes de maquetación ...
 
-* El primer `<section>` y el `<footer>` son maquetados con `display:flex` y `justify-content:space-between`
-* El segundo `<section>` también es maquetado con `display:flex` pero esta vez con `justify-content:space-around`
+* Ambas `<section>` son **maquetadas** con `display:grid` y `grid-template-colums`
+* El `<footer>` está **maquetado** de la misma manera, pero le indico que tiene 3 columnas
 
 ## Despliegue
 
