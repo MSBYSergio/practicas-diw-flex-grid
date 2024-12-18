@@ -28,8 +28,8 @@ Para poder interpretar el documento HTML necesitas un navegador web actual. Aqu�
 
 ## Tecnologías utilizadas
 
-* **HTML5** <img src="/media/html5-brands-solid.svg" alt="HTML5" width="50" height="50">
-* **CSS3** <img src="/media/css3-brands-solid.svg" alt="CSS3" width="50" height="50">
+* **HTML5** 📚
+* **CSS3** 😄
 
 ## Versionado
 
