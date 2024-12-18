@@ -28,8 +28,8 @@ Para poder interpretar el documento HTML necesitas un navegador web actual. Aqu√
 
 ## Tecnolog√≠as utilizadas
 
-* **HTML5**
-* **CSS3**
+* **HTML5** ![icono](/media/html5-brands-solid.svg)
+* **CSS3** ![icono](/media/css3-brands-solid.svg)
 
 ## Versionado
 
