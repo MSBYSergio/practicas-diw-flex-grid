@@ -11,6 +11,7 @@
 * El `<header>` tiene el texto centrado
 * La primera fila es representada como una `<section>`
 * La segunda fila es representada también como otra `<section>`
+* Cada elemento del section tiene un `<figcaption>`
 * El `<footer>` tiene tres etiquetas
 
 ## Desarrollo
